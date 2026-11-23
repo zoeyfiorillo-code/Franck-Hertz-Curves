@@ -1,2 +1,2 @@
 # Frank-Hertz-Curves
-Contains date in csv file, figures, and python code
+Contains data in csv files, figures, and python code
