@@ -10,5 +10,3 @@ The program utilizes LOWESS smoothing, peak and dip analysis, quadratic curve fi
 - Matplotlib
 - SciPy
 - statsmodels
-- Seaborn
-- SymPy
